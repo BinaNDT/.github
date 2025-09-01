@@ -80,7 +80,7 @@ To generate high-confidence prelabels and accelerate human-in-the-loop annotatio
 
 <p align="center">
   <img src="assets/annotations_examples.png" alt="Annotations Examples" width="45%" />
-  <img src="assets/model_example.png" alt="Model Outputs" width="45%" />
+  <img src="assets/model_prediction_example.png" alt="Model Outputs" width="45%" />
 </p>
 <p align="center">
   <img src="assets/I-DISC_poster.png" alt="I-DISC Poster" width="70%" />
