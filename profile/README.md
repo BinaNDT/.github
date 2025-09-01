@@ -1,6 +1,6 @@
 # 👋 Welcome to the Bina Lab Natural Disaster Team
 
-![Bina Lab Banner](assets/binalab-logo-no-bg.png)
+![Bina Lab Banner](assets/binalab-logo.png)
 
 > **“We don't just assess disasters — we build the tools to understand and prevent them.”**
 
