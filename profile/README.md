@@ -1,8 +1,6 @@
 # 👋 Welcome to the Bina Lab Natural Disaster Team
 
-<p align="center">
-  <img src="assets/bina-lab-banner.jpg" alt="Bina Lab Banner" width="100%" />
-</p>
+![Bina Lab Banner](assets/binalab-logo-no-bg.png)
 
 > **“We don't just assess disasters — we build the tools to understand and prevent them.”**
 
@@ -40,9 +38,7 @@ Our team builds tools and datasets for:
 - 4 damage classes: No Damage, Minor, Major, Total Destruction
 - Benchmarked with **Detectron2** and **Mask2Former**
 
-<p align="center">
-  <img src="assets/hurricanevidnet-sample.gif" alt="HurricaneVidNet Sample" width="80%" />
-</p>
+![HurricaneVidNet Sample](assets/hurricanevidnet-sample.gif)
 
 ---
 
@@ -83,11 +79,11 @@ To generate high-confidence prelabels and accelerate human-in-the-loop annotatio
 ## 🖼️ Research Gallery
 
 <p align="center">
-  <img src="assets/sample-before-after.png" width="45%" />
-  <img src="assets/model-outputs.gif" width="45%" />
+  <img src="assets/annotations_examples.png" alt="Annotations Examples" width="45%" />
+  <img src="assets/model_example.png" alt="Model Outputs" width="45%" />
 </p>
 <p align="center">
-  <img src="assets/uav-damage-overlay.jpg" width="70%" />
+  <img src="assets/I-DISC_poster.png" alt="I-DISC Poster" width="70%" />
 </p>
 
 ---
@@ -157,6 +153,4 @@ See `CONTRIBUTING.md` for full details.
 
 > *Built to help communities before, during, and after disaster strikes.*
 
-<p align="center">
-  <img src="assets/bina-lab-logo.png" width="150" />
-</p>
+![Bina Lab Logo](assets/bina-lab-logo.png)
